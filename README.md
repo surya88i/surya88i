@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --!>
 
-https://surya88i.github.io/CodeKaar/
+https://surya88i.github.io/CodeKaar
