@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --!>
-http://this-sunil.epizy.com/html/CodeKar.php
+
+https://surya88i.github.io/CodeKaar/
