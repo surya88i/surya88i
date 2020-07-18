@@ -8,4 +8,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
-<img src="https://github-readme-stats.vercel.app/api?username=surya88i&&show_icons=true&title_color=ffffff&text_color=000000&bg_color=333945" />
+<img src="https://github-readme-stats.vercel.app/api?username=surya88i&&show_icons=true&title_color=ffffff&text_color=daf7dc&bg_color=333945" />
