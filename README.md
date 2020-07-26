@@ -7,5 +7,7 @@
 - 📫 How to reach me: ...https://surya88i.github.io/CodeKaar
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
-
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=dark&hide_langs_below=1" />
+</a>
 <img src="https://github-readme-stats.vercel.app/api?username=surya88i&&show_icons=true&title_color=ffffff&text_color=daf7dc&bg_color=333945" />
