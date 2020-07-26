@@ -23,7 +23,7 @@
 </a>
 <a href="https://github.com/surya88i">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya88i&theme=light&hide_langs_below=1" />
-</a>
+</a><br><br>
 <a href="https://github.com/surya88i">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surya88i&repo=Music-Player&theme=light" />
 </a>
