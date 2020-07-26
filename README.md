@@ -32,6 +32,6 @@
 </a>
 
 <a href="https://github.com/surya88i">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=surya88i&repo=DataTable&theme=light"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surya88i&repo=DataTable&theme=light"/>
 </a>
 
