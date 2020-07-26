@@ -20,7 +20,7 @@
 
 <br><br>
 <a href="https://github.com/surya88i">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya88i&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-adarsh&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/surya88i">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=surya88i&&show_icons=true&title_color=333945&text_color=333945&bg_color=ffffff" />
