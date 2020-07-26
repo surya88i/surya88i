@@ -29,6 +29,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surya88i&repo=Music-Player&theme=light" />
 </a>
 <a href="https://github.com/surya88i">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=surya88i&repo=Resume&theme=light"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=surya88i&repo=DataTable&theme=light"/>
 </a>
 
