@@ -31,3 +31,7 @@
 <a href="https://github.com/surya88i">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=surya88i&repo=Resume&theme=light" />
 </a>
+img:hover
+{
+  background:red;
+}
